@@ -1,0 +1,176 @@
+body {
+    background-color: rgb(193, 227, 234);
+    padding-top: 200px;
+}
+.bg-bs {
+    background-color: rgb(193, 227, 234);
+}
+.titulo {
+background-color: rgb(172, 128, 214);
+width: 100%;
+justify-content: center;
+}
+.titulo h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+.titulo h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-style: italic;
+    font-weight: lighter;
+    text-align:center;
+    justify-content: center;
+}
+#imgnavb {
+    display: flex;
+    justify-content: center;
+}
+.imgheader img{
+    width: 10rem;
+    border: 5px solid none;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.imgheader {
+    display: flex;
+    align-items: center;
+}
+
+.footer, .pagenf ul {
+list-style-type: none;
+}
+.rounded1 {
+    width: 500px;
+    align-items: center;
+    margin: 80px;
+}
+.rounded1 img{
+    width: 70%;
+    border-radius: 5%;
+}
+.rounded{
+    width: 300px;
+    margin: 80px;
+}
+.rounded img{
+    width: 75%;
+    border-radius: 5%;
+    
+}
+#imgquienessomos {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.fbpreggo {
+    width: 300px;
+display: flex;
+}
+.fbpreggo img {
+    width: 50%;
+border-style:hidden;
+border-radius: 5%;
+display: flex;
+align-items: center;
+}
+.maypiyyo {
+    width: 500px;
+}
+.maypiyyo img{
+    width: 50%;
+    border-radius: 5%;
+    border-style: hidden;
+    display: flex;
+    align-items: center;
+}
+.joprieto {
+    width: 500px;
+}
+.joprieto img{
+    width: 50%;
+    border-radius: 5%;
+    border-style: hidden;
+    display: flex;
+    align-items: center;
+}
+.paragraphs1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large;
+    font-style:normal;
+    font-weight: bold;
+    text-align:center;
+    text-decoration: underline;
+    padding-top: 480px;
+}
+.paragraphs {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    font-style:normal;
+    font-weight: lighter;
+    text-align:center;
+    padding-top:50px ;
+}
+.hipopresivos {
+    width: 500px;
+    display: flex;
+}
+.hipopresivos img{
+    width: 50%;
+    border-radius: 5%;
+    border-style: hidden;
+}
+.preggosquat {
+    width: 500px;
+    display: flex;
+}
+.preggosquat img{
+    width: 50%;
+    border-radius: 5%;
+    border-style: hidden;
+}
+.lateralplank {
+    width: 500px;
+    display: flex;
+}
+.lateralplank img{
+    width: 50%;
+    border-radius: 5%;
+    border-style: hidden;
+}
+.segonline {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    font-style:normal;
+    font-weight: lighter;
+    text-align:left;
+    display: flex;
+    grid-template-columns: auto auto auto auto;
+    }
+.cuadrante {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    font-style:normal;
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+    text-align:left;
+
+}    
+.pagenf {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: lighter;
+    text-align: center;
+}
+.footer {
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+font-weight: bolder;
+text-align: right;
+}
