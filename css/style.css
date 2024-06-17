@@ -152,7 +152,7 @@ align-items: center;
     display: flex;
     grid-template-columns: auto auto auto auto;
     }
-.cuadrante {
+.embpost {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 100%;
     font-style:normal;
